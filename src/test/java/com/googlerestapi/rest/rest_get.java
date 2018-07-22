@@ -20,7 +20,7 @@ class rest_get {
 	}
 	
 	@Test
-	//git demo
+	//git
 	public void testStatusCodeRestAssured(){
 		//Response res;
 		given()
