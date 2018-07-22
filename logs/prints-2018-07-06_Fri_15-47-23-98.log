@@ -1,0 +1,118 @@
+17:26:46.567 [main] INFO  com.googlerestapi.rest.rest_getOutageDetails - http://10.5.247.126:8011
+17:28:11.962 [main] INFO  com.googlerestapi.rest.rest_getOutageDetails - Execution Started for --> http://10.5.213.85:8080
+17:28:11.967 [main] INFO  com.googlerestapi.rest.rest_getOutageDetails - {
+	"Fault" : {
+		"faultcode" : "env:Server",
+		"faultstring" : "No data is returned for the criteria",
+		"detail" : {
+			"getOutageDetailsFault" : {
+				"soaFault" : {
+					"soaFaultOriginator" : "Netcool",
+					"soaFaultCode" : "getoutagedetails-3501-E",
+					"faultDescription" : "No data is returned for the criteria",
+					"faultTrace" : "No data is returned for the criteria",
+					"soaTransactionID" : "2b9e1cec-cf31-4ef8-8dbb-ac0f239778af"
+				}
+			}
+		}
+	}
+}
+17:28:11.968 [main] INFO  com.googlerestapi.rest.rest_getOutageDetails - Execution Completed for --> http://10.5.213.85:8080
+17:28:12.281 [main] INFO  com.googlerestapi.rest.rest_getOutageDetails - Execution Started for --> http://10.5.247.126:8011
+17:28:12.281 [main] INFO  com.googlerestapi.rest.rest_getOutageDetails - {
+	"Fault" : {
+		"faultcode" : "env:Server",
+		"faultstring" : "No data is returned for the criteria",
+		"detail" : {
+			"getOutageDetailsFault" : {
+				"soaFault" : {
+					"soaFaultOriginator" : "Netcool",
+					"soaFaultCode" : "getoutagedetails-3501-E",
+					"faultDescription" : "No data is returned for the criteria",
+					"faultTrace" : "Backend Error Occured",
+					"soaTransactionID" : "364d5038-cde8-477a-ba27-43d64c96002f"
+				}
+			}
+		}
+	}
+}
+17:28:12.282 [main] INFO  com.googlerestapi.rest.rest_getOutageDetails - Execution Completed for --> http://10.5.247.126:8011
+17:31:28.577 [main] INFO  com.googlerestapi.rest.rest_getOutageDetails - Execution Started for --> http://10.5.213.85:8080
+17:31:28.581 [main] INFO  com.googlerestapi.rest.rest_getOutageDetails - {
+	"Fault" : {
+		"faultcode" : "env:Server",
+		"faultstring" : "No data is returned for the criteria",
+		"detail" : {
+			"getOutageDetailsFault" : {
+				"soaFault" : {
+					"soaFaultOriginator" : "Netcool",
+					"soaFaultCode" : "getoutagedetails-3501-E",
+					"faultDescription" : "No data is returned for the criteria",
+					"faultTrace" : "No data is returned for the criteria",
+					"soaTransactionID" : "6b51379d-37d6-4062-a3ed-fafdf448b71f"
+				}
+			}
+		}
+	}
+}
+17:31:28.582 [main] INFO  com.googlerestapi.rest.rest_getOutageDetails - Execution Completed for --> http://10.5.213.85:8080
+17:31:28.892 [main] INFO  com.googlerestapi.rest.rest_getOutageDetails - Execution Started for --> http://10.5.247.126:8011
+17:31:28.893 [main] INFO  com.googlerestapi.rest.rest_getOutageDetails - {
+	"Fault" : {
+		"faultcode" : "env:Server",
+		"faultstring" : "No data is returned for the criteria",
+		"detail" : {
+			"getOutageDetailsFault" : {
+				"soaFault" : {
+					"soaFaultOriginator" : "Netcool",
+					"soaFaultCode" : "getoutagedetails-3501-E",
+					"faultDescription" : "No data is returned for the criteria",
+					"faultTrace" : "Backend Error Occured",
+					"soaTransactionID" : "1e6110b6-c938-4e25-8799-2aee62361a7f"
+				}
+			}
+		}
+	}
+}
+17:31:28.893 [main] INFO  com.googlerestapi.rest.rest_getOutageDetails - Execution Completed for --> http://10.5.247.126:8011
+11:45:03.914 [main] INFO  com.googlerestapi.rest.rest_getOutageDetails - Execution Started for --> http://10.5.213.85:8080
+11:45:03.919 [main] INFO  com.googlerestapi.rest.rest_getOutageDetails - {
+	"Fault" : {
+		"faultcode" : "env:Server",
+		"faultstring" : "No data is returned for the criteria",
+		"detail" : {
+			"getOutageDetailsFault" : {
+				"soaFault" : {
+					"soaFaultOriginator" : "Netcool",
+					"soaFaultCode" : "getoutagedetails-3501-E",
+					"faultDescription" : "No data is returned for the criteria",
+					"faultTrace" : "No data is returned for the criteria",
+					"soaTransactionID" : "8f5dd8b9-c60b-4c22-8e4a-1c56e42e124a"
+				}
+			}
+		}
+	}
+}
+11:45:03.920 [main] INFO  com.googlerestapi.rest.rest_getOutageDetails - Execution Completed for --> http://10.5.213.85:8080
+11:45:05.810 [main] INFO  com.googlerestapi.rest.rest_getOutageDetails - Execution Started for --> http://10.5.247.126:8011
+11:45:05.811 [main] INFO  com.googlerestapi.rest.rest_getOutageDetails - {
+	"Fault" : {
+		"faultcode" : "env:Server",
+		"faultstring" : "No data is returned for the criteria",
+		"detail" : {
+			"getOutageDetailsFault" : {
+				"soaFault" : {
+					"soaFaultOriginator" : "Netcool",
+					"soaFaultCode" : "getoutagedetails-3501-E",
+					"faultDescription" : "No data is returned for the criteria",
+					"faultTrace" : "Backend Error Occured",
+					"soaTransactionID" : "c52274b5-b0a3-470e-83f9-0773d9f98fb2"
+				}
+			}
+		}
+	}
+}
+11:45:05.811 [main] INFO  com.googlerestapi.rest.rest_getOutageDetails - Execution Completed for --> http://10.5.247.126:8011
+15:47:23.058 [main] INFO  com.googlerestapi.rest.soap_getOutageDetails - Execution Started for --> http://10.5.213.85:8080
+15:47:23.094 [main] INFO  com.googlerestapi.rest.soap_getOutageDetails - <?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/"><soapenv:Body><soapenv:Fault><faultcode>soapenv:Server</faultcode><faultstring>BEA-382510: OSB Assign action failed updating variable "strippedrequest": weblogic.xml.query.exceptions.XQueryDynamicException: {err}FORG0005: Expected exactly one item, got 0 items</faultstring><detail><con:fault xmlns:con="http://www.bea.com/wli/sb/context"><con:errorCode>BEA-382510</con:errorCode><con:reason>OSB Assign action failed updating variable "strippedrequest": weblogic.xml.query.exceptions.XQueryDynamicException: {err}FORG0005: Expected exactly one item, got 0 items</con:reason><con:location><con:path>request-pipeline</con:path><con:error-handler>true</con:error-handler></con:location></con:fault></detail></soapenv:Fault></soapenv:Body></soapenv:Envelope>

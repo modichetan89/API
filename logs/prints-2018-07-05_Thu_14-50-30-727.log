@@ -1,0 +1,170 @@
+16:15:33.496 [main] INFO  com.googlerestapi.rest.rest_getOutageDetails - {
+	"Fault" : {
+		"faultcode" : "env:Server",
+		"faultstring" : "No data is returned for the criteria",
+		"detail" : {
+			"getOutageDetailsFault" : {
+				"soaFault" : {
+					"soaFaultOriginator" : "Netcool",
+					"soaFaultCode" : "getoutagedetails-3501-E",
+					"faultDescription" : "No data is returned for the criteria",
+					"faultTrace" : "No data is returned for the criteria",
+					"soaTransactionID" : "bec49fe6-906d-4c02-8465-534d6482a10a"
+				}
+			}
+		}
+	}
+}
+17:07:57.776 [main] INFO  com.googlerestapi.rest.rest_getOutageDetails - {
+	"Fault" : {
+		"faultcode" : "env:Server",
+		"faultstring" : "No data is returned for the criteria",
+		"detail" : {
+			"getOutageDetailsFault" : {
+				"soaFault" : {
+					"soaFaultOriginator" : "Netcool",
+					"soaFaultCode" : "getoutagedetails-3501-E",
+					"faultDescription" : "No data is returned for the criteria",
+					"faultTrace" : "No data is returned for the criteria",
+					"soaTransactionID" : "c2f293cb-0270-4258-9884-ad5d5dddcf81"
+				}
+			}
+		}
+	}
+}
+17:09:21.880 [main] INFO  com.googlerestapi.rest.rest_getOutageDetails - {
+	"Fault" : {
+		"faultcode" : "env:Server",
+		"faultstring" : "No data is returned for the criteria",
+		"detail" : {
+			"getOutageDetailsFault" : {
+				"soaFault" : {
+					"soaFaultOriginator" : "Netcool",
+					"soaFaultCode" : "getoutagedetails-3501-E",
+					"faultDescription" : "No data is returned for the criteria",
+					"faultTrace" : "No data is returned for the criteria",
+					"soaTransactionID" : "d4ba5684-81a7-4c3e-ab34-6704e309de20"
+				}
+			}
+		}
+	}
+}
+17:09:22.112 [main] INFO  com.googlerestapi.rest.rest_getOutageDetails - {
+	"Fault" : {
+		"faultcode" : "env:Server",
+		"faultstring" : "No data is returned for the criteria",
+		"detail" : {
+			"getOutageDetailsFault" : {
+				"soaFault" : {
+					"soaFaultOriginator" : "Netcool",
+					"soaFaultCode" : "getoutagedetails-3501-E",
+					"faultDescription" : "No data is returned for the criteria",
+					"faultTrace" : "Backend Error Occured",
+					"soaTransactionID" : "63394f5f-07a4-46bc-9066-af89ce30a899"
+				}
+			}
+		}
+	}
+}
+14:19:48.220 [main] INFO  com.googlerestapi.rest.rest_getOutageDetails - {
+	"Fault" : {
+		"faultcode" : "env:Server",
+		"faultstring" : "No data is returned for the criteria",
+		"detail" : {
+			"getOutageDetailsFault" : {
+				"soaFault" : {
+					"soaFaultOriginator" : "Netcool",
+					"soaFaultCode" : "getoutagedetails-3501-E",
+					"faultDescription" : "No data is returned for the criteria",
+					"faultTrace" : "No data is returned for the criteria",
+					"soaTransactionID" : "1ec5fc63-5d77-4063-8053-d6d4c78b904e"
+				}
+			}
+		}
+	}
+}
+14:19:49.680 [main] INFO  com.googlerestapi.rest.rest_getOutageDetails - {
+	"Fault" : {
+		"faultcode" : "env:Server",
+		"faultstring" : "No data is returned for the criteria",
+		"detail" : {
+			"getOutageDetailsFault" : {
+				"soaFault" : {
+					"soaFaultOriginator" : "Netcool",
+					"soaFaultCode" : "getoutagedetails-3501-E",
+					"faultDescription" : "No data is returned for the criteria",
+					"faultTrace" : "Backend Error Occured",
+					"soaTransactionID" : "2a746919-c827-4fb0-b68d-90007e5029b2"
+				}
+			}
+		}
+	}
+}
+14:22:01.155 [main] INFO  com.googlerestapi.rest.rest_getOutageDetails - {
+	"Fault" : {
+		"faultcode" : "env:Server",
+		"faultstring" : "No data is returned for the criteria",
+		"detail" : {
+			"getOutageDetailsFault" : {
+				"soaFault" : {
+					"soaFaultOriginator" : "Netcool",
+					"soaFaultCode" : "getoutagedetails-3501-E",
+					"faultDescription" : "No data is returned for the criteria",
+					"faultTrace" : "No data is returned for the criteria",
+					"soaTransactionID" : "527db710-9472-463b-bcaa-60a8161c5d2b"
+				}
+			}
+		}
+	}
+}
+14:22:01.411 [main] INFO  com.googlerestapi.rest.rest_getOutageDetails - {
+	"Fault" : {
+		"faultcode" : "env:Server",
+		"faultstring" : "No data is returned for the criteria",
+		"detail" : {
+			"getOutageDetailsFault" : {
+				"soaFault" : {
+					"soaFaultOriginator" : "Netcool",
+					"soaFaultCode" : "getoutagedetails-3501-E",
+					"faultDescription" : "No data is returned for the criteria",
+					"faultTrace" : "Backend Error Occured",
+					"soaTransactionID" : "ee0484a9-08c4-48c1-a19f-b5aa82cc8146"
+				}
+			}
+		}
+	}
+}
+14:31:57.518 [main] INFO  com.googlerestapi.rest.rest_getOutageDetails - {
+	"Fault" : {
+		"faultcode" : "env:Server",
+		"faultstring" : "No data is returned for the criteria",
+		"detail" : {
+			"getOutageDetailsFault" : {
+				"soaFault" : {
+					"soaFaultOriginator" : "Netcool",
+					"soaFaultCode" : "getoutagedetails-3501-E",
+					"faultDescription" : "No data is returned for the criteria",
+					"faultTrace" : "No data is returned for the criteria",
+					"soaTransactionID" : "174eaadb-c912-4145-8b9f-00461fbfca11"
+				}
+			}
+		}
+	}
+}
+14:31:57.759 [main] INFO  com.googlerestapi.rest.rest_getOutageDetails - {
+	"Fault" : {
+		"faultcode" : "env:Server",
+		"faultstring" : "No data is returned for the criteria",
+		"detail" : {
+			"getOutageDetailsFault" : {
+				"soaFault" : {
+					"soaFaultOriginator" : "Netcool",
+					"soaFaultCode" : "getoutagedetails-3501-E",
+					"faultDescription" : "No data is returned for the criteria",
+					"faultTrace" : "Backend Error Occured",
+					"soaTransactionID" : "b011585b-5ccf-4389-9a46-03d1366d6cf2"
+				}
+			}
+		}
+	}
+}

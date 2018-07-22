@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3041" started-at="2018-07-06T10:17:20Z" finished-at="2018-07-06T10:17:23Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3041" started-at="2018-07-06T10:17:20Z" finished-at="2018-07-06T10:17:23Z">
+      <class name="com.googlerestapi.rest.soap_getOutageDetails">
+        <test-method status="PASS" signature="setBaseURI()[pri:0, instance:com.googlerestapi.rest.soap_getOutageDetails@55182842]" name="setBaseURI" is-config="true" duration-ms="478" started-at="2018-07-06T10:17:20Z" finished-at="2018-07-06T10:17:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBaseURI -->
+        <test-method status="PASS" signature="testJSONExtractRestAssured(java.lang.String)[pri:0, instance:com.googlerestapi.rest.soap_getOutageDetails@55182842]" name="testJSONExtractRestAssured" duration-ms="1935" started-at="2018-07-06T10:17:21Z" data-provider="getData" finished-at="2018-07-06T10:17:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://10.5.213.85:8080]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testJSONExtractRestAssured -->
+        <test-method status="PASS" signature="testJSONExtractRestAssured(java.lang.String)[pri:0, instance:com.googlerestapi.rest.soap_getOutageDetails@55182842]" name="testJSONExtractRestAssured" duration-ms="596" started-at="2018-07-06T10:17:23Z" data-provider="getData" finished-at="2018-07-06T10:17:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://10.5.247.126:8011]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testJSONExtractRestAssured -->
+      </class> <!-- com.googlerestapi.rest.soap_getOutageDetails -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
